@@ -56,24 +56,20 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  <br>
  #### Input: <br>
 <img width="140" alt="Pic10" src="https://user-images.githubusercontent.com/52568868/213911319-71791354-6529-4e48-8593-400533c57edb.png"> <br>
- #### Expected Output:<br>
+ #### Expected Output: <br>
 <img width="202" alt="Pic11" src="https://user-images.githubusercontent.com/52568868/213911323-de31a9f2-cbfc-4722-9001-a77d306a3f88.png"> <br>
- #### Solution:<br> 
- #### Code Snippet with actual output:<br> 
-<img width="1129" alt="DOM6" src="https://user-images.githubusercontent.com/52568868/213911336-fa30d21a-8e6e-4dfc-a81f-4e98d417cec5.png">
+ #### Solution: <br> 
+ #### Code Snippet with actual output: <br> 
+<img width="1129" alt="DOM6" src="https://user-images.githubusercontent.com/52568868/213911336-fa30d21a-8e6e-4dfc-a81f-4e98d417cec5.png"> <br>
 
  <br>
 
 ### Question7 : To Search a topic in the MDN Search bar.
      First add a text to search in the search bar and then hit the submit search button to search the docs using DOM in Website Name: 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/) <br>
 #### Input: <br>
- ![Pic12](https://user-images.githubusercontent.com/52568868/213911998-34b2290b-cfda-48d1-9cb8-7b58a6d77389.png)
-
- <br>
- #### Expected Output:<br>
- ![Pic13](https://user-images.githubusercontent.com/52568868/213912085-6b630dd1-944b-492a-8b60-40651473b99d.png)
- 
- <br>
+ ![Pic12](https://user-images.githubusercontent.com/52568868/213911998-34b2290b-cfda-48d1-9cb8-7b58a6d77389.png) <br>
+ #### Expected Output: <br>
+ ![Pic13](https://user-images.githubusercontent.com/52568868/213912085-6b630dd1-944b-492a-8b60-40651473b99d.png)  <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="1271" alt="DOM7" src="https://user-images.githubusercontent.com/52568868/213911375-efda8aa1-a946-4d2e-839f-4bb5b2bdedc9.png">
