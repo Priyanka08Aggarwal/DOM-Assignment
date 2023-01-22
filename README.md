@@ -120,94 +120,95 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  <br>
  
  
- ### Question12 : 
- Website Name: 
- <br>
+ ### Question12 : change the background colour of the button to blue.
+ Website Name: 12. Webiste Name: [Github](https://github.com/) <br>
  #### Input: <br>
+ <img width="221" alt="Pic22" src="https://user-images.githubusercontent.com/52568868/213914169-9d24ae42-00eb-4b22-a77b-9a074db9abc6.png"> <br>
  #### Expected Output:<br>
-
+<img width="240" alt="Pic23" src="https://user-images.githubusercontent.com/52568868/213914176-e7a54f48-b9f0-4283-a82a-39b09affa470.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="449" alt="DOM12" src="https://user-images.githubusercontent.com/52568868/213913437-082c7ab0-f19e-407f-bfda-b130ad06c518.png"> <br>
  
  
- ### Question13 : 
- Website Name: 
- <br>
+ ### Question13 : Target the top description and change “Matching developers with great companies” to ‘JSBOOTCAMP“.
+ Website Name: 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/) <br>
  #### Input: <br>
+ <img width="155" alt="Pic24" src="https://user-images.githubusercontent.com/52568868/213914133-a8f5a47f-1a3c-4449-a98a-51c3b2f73d27.png"> <br>
  #### Expected Output:<br>
-
+<img width="150" alt="Pic25" src="https://user-images.githubusercontent.com/52568868/213914144-dc035c03-8507-4d99-9e3f-7631ca3402d8.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="1025" alt="DOM13" src="https://user-images.githubusercontent.com/52568868/213913506-5421d312-ebae-4129-a5b1-6eb14a746f5e.png"> <br>
  
- ## Question14 : 
- Website Name: 
+ ## Question14 : change the fontsize of “Hot Deals” to 80px
+ Website Name: 14. Webiste Name: [Asus](https://www.asus.com/in/)
  <br>
  #### Input: <br>
- #### Expected Output:<br>
-
+ ![Pic26](https://user-images.githubusercontent.com/52568868/213914084-af104e8f-73c1-4cc5-b343-d3936c641227.png) <br>
+#### Expected Output:<br>
+<img width="245" alt="Pic27" src="https://user-images.githubusercontent.com/52568868/213914101-607b3c58-f0d2-4e1c-a418-44037bc4d74c.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="936" alt="DOM14" src="https://user-images.githubusercontent.com/52568868/213913524-c007d23a-6576-44dd-8cdd-5aedb3966a4c.png"> <br>
  
-  ## Question15: 
- Website Name: 
- <br>
+  ## Question15: Convert the text “G15 Gaming Laptop” from left to right
+ Website Name: 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20) <br>
  #### Input: <br>
+ <img width="187" alt="Pic28" src="https://user-images.githubusercontent.com/52568868/213914055-9262fba2-d794-4345-904b-e6f8dea61e0a.png"> <br>
  #### Expected Output:<br>
-
+<img width="287" alt="Pic29" src="https://user-images.githubusercontent.com/52568868/213914063-05a5580d-a98f-4a05-8e8f-f6dc3dbe713a.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="447" alt="DOM15" src="https://user-images.githubusercontent.com/52568868/213913540-5123b358-9fce-4c33-9afa-8d3256bf0fa7.png"> <br>
  
-  ## Question16 : 
- Website Name: 
- <br>
+  ## Question16 : change the heading “Start with the developer” to “Start with Scratch”
+ Website Name: 16. Webiste Name: [Vercel](https://vercel.com/) <br>
  #### Input: <br>
+ <img width="255" alt="Pic30" src="https://user-images.githubusercontent.com/52568868/213914026-5dba2603-700c-4750-8b49-069ecbd7d243.png"> <br>
  #### Expected Output:<br>
-
+![Pic31](https://user-images.githubusercontent.com/52568868/213914031-28f91724-5da1-409b-8c3a-469984634b36.png) <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="502" alt="DOM16" src="https://user-images.githubusercontent.com/52568868/213913574-fb72b93f-4a4c-4102-b376-dc2fbc29710d.png"> <br>
  
-  ## Question17 : 
- Website Name: 
- <br>
+  ## Question17 : change the button text To current Date.
+ Website Name: 17. Webiste Name: [Sony](https://www.sony.co.in/) <br>
  #### Input: <br>
+ <img width="407" alt="Pic33" src="https://user-images.githubusercontent.com/52568868/213913988-bc07f8aa-2801-4f4a-9e70-78a60a0ded5b.png"> <br>
  #### Expected Output:<br>
-
+<img width="413" alt="Pic32" src="https://user-images.githubusercontent.com/52568868/213913990-cc02848b-e75f-40cc-be1a-263e9ed48594.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="908" alt="DOM17" src="https://user-images.githubusercontent.com/52568868/213913584-1daaafbe-b102-48c5-871d-6185f3ef3c29.png"> <br>
 
 
- ## Question18 : 
- Website Name: 
- <br>
+ ## Question18 : change the background colour blue to orange
+ Website Name: 18. Webiste Name: [Philips](https://www.philips.co.in/) <br>
  #### Input: <br>
+ <img width="191" alt="Pic34" src="https://user-images.githubusercontent.com/52568868/213913947-a9775c8e-7dfd-42b3-9aac-79575ebd0b8b.png"> <br>
  #### Expected Output:<br>
-
+ <img width="191" alt="Pic35" src="https://user-images.githubusercontent.com/52568868/213913932-431cabdc-23d2-4dad-90bf-54f22f640169.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="540" alt="DOM18" src="https://user-images.githubusercontent.com/52568868/213913598-9cea2b85-292c-4838-8882-ca7e0a73611a.png"> <br>
  
-  ## Question19 : 
- Website Name: 
+  ## Question19 : extract the canon logo  Website Name: 19. Webiste Name: [Canon](https://in.canon/)
  <br>
  #### Input: <br>
+ <img width="205" alt="Pic36" src="https://user-images.githubusercontent.com/52568868/213913874-c91d0d56-36bf-4d4a-9e74-88f8cf300f1b.png"> <br>
  #### Expected Output:<br>
-
+<img width="360" alt="Pic37" src="https://user-images.githubusercontent.com/52568868/213913862-de767583-88d9-43ac-aeaf-5cd0eb4bdcee.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="394" alt="DOM19" src="https://user-images.githubusercontent.com/52568868/213913607-3550f172-c76b-4131-8ded-2848dc341411.png"> <br>
  
-  ## Question20 : 
- Website Name: 
- <br>
+  ## Question20 : Change the description colour black to orange
+ Website Name: 20. Webiste Name: [Oppo](https://www.oppo.com/in/) <br>
  #### Input: <br>
+ <img width="238" alt="Pic38" src="https://user-images.githubusercontent.com/52568868/213913814-c4a0d582-a090-40c6-8b1e-5f891992225a.png"> <br>
  #### Expected Output:<br>
-
+<img width="247" alt="Pic39" src="https://user-images.githubusercontent.com/52568868/213913832-bccd21f8-f4e6-4cf2-a65f-fc3e3be18759.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="596" alt="DOM20" src="https://user-images.githubusercontent.com/52568868/213913618-a470fc32-7e4b-408a-af4d-0ee59d8d5840.png"> <br>
