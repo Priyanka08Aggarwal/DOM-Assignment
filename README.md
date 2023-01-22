@@ -102,11 +102,11 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  <img width="487" alt="DOM9" src="https://user-images.githubusercontent.com/52568868/213911103-1a99cb5d-abfa-4c35-b9a8-049b284a5625.png">
 <br>
  
- ### Question10 : Target the button and change background colour on mouseoverin Website Name: 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)<br>
+ ### Question10 : Target the button and change background colour on mouseoverin Website Name: 10. Webiste Name: [Freecodecamp (https://www.freecodecamp.org/)<br>
  #### Input: <br>
-<img width="295" alt="Pic18" src="https://user-images.githubusercontent.com/52568868/213911010-ff5a6469-b97c-4d33-accf-f85310a4373c.png">
+<img width="295" alt="Pic18" src="https://user-images.githubusercontent.com/52568868/213911010-ff5a6469-b97c-4d33-accf-f85310a4373c.png"> <br>
  #### Expected Output:<br>
-<img width="287" alt="Pic19" src="https://user-images.githubusercontent.com/52568868/213911029-6deb0117-33f1-4bd7-b924-01bb242e96cd.png">
+<img width="287" alt="Pic19" src="https://user-images.githubusercontent.com/52568868/213911029-6deb0117-33f1-4bd7-b924-01bb242e96cd.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="1002" alt="DOM10" src="https://user-images.githubusercontent.com/52568868/213911085-80a77b9a-2702-47b4-8f13-ae9946636b4e.png">
