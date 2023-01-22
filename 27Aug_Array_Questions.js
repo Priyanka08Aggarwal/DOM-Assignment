@@ -89,3 +89,92 @@ console.log(Boolean(1));
 console.log(Boolean([]));
 console.log(Boolean({}));
 console.log(Boolean([0]));
+
+//Question11:->
+//Figure out the result of the following comparison expression first without using console.log(). After you decide the result confirm it using console.log()
+/*- 4 > 3
+- 4 >= 3
+- 4 < 3
+- 4 <= 3
+- 4 == 4
+- 4 === 4
+- 4 != 4
+- 4 !== 4
+- 4 != '4'
+- 4 == '4'
+- 4 === '4'
+- Find the length of python and jargon and make a falsy comparison statement.*/
+console.log("\nSolution of Question 11\n");
+console.log(4>3);
+console.log(4>=3);
+console.log(4<=3);
+console.log(4<3);
+console.log(4==4);
+console.log(4===4);
+console.log(4!=4);
+console.log(4!==4);
+console.log(4!='4');
+console.log(4=='4');
+console.log(4==='4');
+
+//Question12:->
+/* Use the Date object to do the following activities
+    - What is the year today?
+    - What is the month today as a number?
+    - What is the date today?
+    - What is the day today as a number?
+    - What is the hours now?
+    - What is the minutes now?
+    - Find out the numbers of seconds elapsed from January 1, 1970 to now.
+ */
+console.log("\nSolution of Question 12\n");
+let date = new Date();
+console.log(date.getFullYear());
+console.log(date.getMonth());
+console.log(date.getDate());
+console.log(date.getDay());
+console.log(date.getHours());
+console.log(date.getMinutes());
+let sec = new Date('January 1, 1970 05:35:32:11');
+console.log(sec.getMilliseconds());
+
+//Question13:->
+//Write a script that prompt the user to enter base and height of the triangle and calculate an area of a triangle (area = 0.5 x b x h).
+
+console.log("\nSolution of Question 13\n");
+const prompt=require("prompt-sync")({sigint:true}); 
+let base=prompt("Enter base of the triangle");
+let height=prompt("Enter height of the triangle");
+let area =0.5 * base * height; 
+console.log("Area of a triangle is "+ area);
+
+//Question14:->
+ //Slope is m = (y2-y1)/(x2-x1). Find the slope between point (2, 2) and point(6,10)
+ console.log("\nSolution of Question 14\n");
+function slope(x1, y1, x2, y2)
+{
+    if (x2 - x1 != 0)
+    {
+        return (y2 - y1) / (x2 - x1);
+    }
+    return Number.MAX_VALUE;
+}
+
+var x1 = 2;
+var y1 = 2;
+var x2 = 6;
+var y2 = 10;
+console.log("Slope is: " + slope(x1, y1, x2, y2));
+
+
+// Question15:->
+//  Calculate the slope, x-intercept and y-intercept of y = 2x -2
+//  console.log("\nSolution of Question 15\n");
+
+//Question16:->
+//Get radius using prompt and calculate the area of a circle (area = pi x r x r) and circumference of a circle(c = 2 x pi x r) where pi = 3.14.
+console.log("\nSolution of Question 16\n");
+let radius=prompt("Enter radius of the circle");
+let areaOfCircle=3.14*radius*radius;
+let circum=2*3.14*radius;
+console.log("Area and circumference of circle are "+ areaOfCircle +","+circum);
