@@ -52,7 +52,67 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 <img width="674" alt="DOM4a" src="https://user-images.githubusercontent.com/52568868/213910494-8ccc75a8-8bb5-4b91-9284-fe8e0bf0eee4.png">
 <br>
  
- ### Question : 
+ ### Question6 : arget the search box and on hover change thebackground color to red in  Website Name: 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
+ <br>
+ #### Input: <br>
+
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+
+ <br>
+
+### Question7 : To Search a topic in the MDN Search bar.
+     First add a text to search in the search bar and then hit the submit search button to search the docs using DOM in Website Name: 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+ <br>
+ #### Input: <br>
+
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+
+ <br>
+ 
+ ### Question8 : Remove alternate languages from the home page languages listed in Website Name: 8. Webiste Name: [Google](https://www.google.com/)
+ <br>
+ #### Input: <br>
+
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+
+ <br>
+ 
+ ### Question9 : Change the font family of the text to monospace and text color to the logo’s background color in Website Name: 9. Webiste Name: [Code Wars](https://www.codewars.com/)
+
+ <br>
+ #### Input: <br>
+<img width="418" alt="Pic16" src="https://user-images.githubusercontent.com/52568868/213911059-c2faf68f-448c-4c3b-a5ff-8dd7b360ce88.png">
+
+ #### Expected Output:<br>
+<img width="451" alt="Pic17" src="https://user-images.githubusercontent.com/52568868/213911070-b5810fef-d8cd-4363-9a39-e9d9d57d7eb6.png">
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+
+ <img width="487" alt="DOM9" src="https://user-images.githubusercontent.com/52568868/213911103-1a99cb5d-abfa-4c35-b9a8-049b284a5625.png">
+<br>
+ 
+ ### Question10 : Target the button and change background colour on mouseoverin Website Name: 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)<br>
+ #### Input: <br>
+<img width="295" alt="Pic18" src="https://user-images.githubusercontent.com/52568868/213911010-ff5a6469-b97c-4d33-accf-f85310a4373c.png">
+ #### Expected Output:<br>
+<img width="287" alt="Pic19" src="https://user-images.githubusercontent.com/52568868/213911029-6deb0117-33f1-4bd7-b924-01bb242e96cd.png">
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="1002" alt="DOM10" src="https://user-images.githubusercontent.com/52568868/213911085-80a77b9a-2702-47b4-8f13-ae9946636b4e.png">
+<br>
+ 
+ ### Question11 : 
  Website Name: 
  <br>
  #### Input: <br>
