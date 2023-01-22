@@ -45,14 +45,14 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 <img width="502" alt="DOM4" src="https://user-images.githubusercontent.com/52568868/213910016-8714ea50-aad0-45fc-9685-d3dc00bc5468.png">
  <br>
  
-### Question5 : Target the main div of card and change the Button text to Check out in Website Name:5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
- <br>
-#### Input: <br>
+### Question5 : Target the main div of card and change the Button text to Check out in Website Name:5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/) <br>
+#### Input: 
+<br>
 ![Pic8](https://user-images.githubusercontent.com/52568868/213910470-81180cc3-251b-4d2a-a769-a48f14326d71.png)
 <br>
 
  #### Expected Output:<br>
-#![Pic9](https://user-images.githubusercontent.com/52568868/213910482-88cafb7d-e0f0-4e15-ae8a-a0def570e658.png)
+![Pic9](https://user-images.githubusercontent.com/52568868/213910482-88cafb7d-e0f0-4e15-ae8a-a0def570e658.png)
 ### Solution: <br> 
  #### Code Snippet with actual output:<br> 
 <img width="674" alt="DOM4a" src="https://user-images.githubusercontent.com/52568868/213910494-8ccc75a8-8bb5-4b91-9284-fe8e0bf0eee4.png">
