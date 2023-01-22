@@ -24,16 +24,13 @@ Fetch all the product name and store in an array in  Webiste Name:2. Website Nam
 
 ### Question 3: 
 Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Name: 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/) <br>
-#### Input: <br>
-<img width="238" alt="Pic4" src="https://user-images.githubusercontent.com/52568868/213909616-578b6008-20b4-442a-b915-34fef097156a.png">
-<br>
+#### Input:<br>
+<img width="238" alt="Pic4" src="https://user-images.githubusercontent.com/52568868/213909616-578b6008-20b4-442a-b915-34fef097156a.png"> <br>
 #### Expected Output:<br>
-<img width="224" alt="Pic5" src="https://user-images.githubusercontent.com/52568868/213909652-dec1fae4-5d0a-403a-84a4-9e497f988562.png">
-<br>
+<img width="224" alt="Pic5" src="https://user-images.githubusercontent.com/52568868/213909652-dec1fae4-5d0a-403a-84a4-9e497f988562.png"><br>
 #### Solution:<br>
 #### Code Snippet with actual output:<br> 
-<img width="836" alt="DOM3" src="https://user-images.githubusercontent.com/52568868/213909673-cf18fc48-9ca2-460b-b94e-a15e28774578.png">
-<br>
+<img width="836" alt="DOM3" src="https://user-images.githubusercontent.com/52568868/213909673-cf18fc48-9ca2-460b-b94e-a15e28774578.png"><br>
 
 ### Question4: Change the contact number in Webiste Name: [OnePlus](https://www.oneplus.in/support)<br>
 #### Input:<br>
@@ -60,7 +57,6 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  <br>
  #### Input: <br>
 
-<br>
  #### Expected Output:<br>
 
  #### Solution:<br> 
