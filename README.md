@@ -69,9 +69,9 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 
  <br>
  #### Input: <br>
-![Pic12](https://user-images.githubusercontent.com/52568868/213911347-7984077d-0d71-4ca7-9289-74969453499e.png) <br>
+ ![Pic12](https://user-images.githubusercontent.com/52568868/213911607-31f9ebd7-b354-412f-b4bb-ccfde2baa1c4.png) <br>
  #### Expected Output:<br>
-![Pic13](https://user-images.githubusercontent.com/52568868/213911368-ca96930d-d259-45ed-b54e-b5de1ff1d24e.png) <br>
+ ![Pic13](https://user-images.githubusercontent.com/52568868/213911622-fa70d6ce-3302-4513-943e-828cf7d321cf.png) <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="1271" alt="DOM7" src="https://user-images.githubusercontent.com/52568868/213911375-efda8aa1-a946-4d2e-839f-4bb5b2bdedc9.png">
@@ -80,9 +80,10 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  
  ### Question8 : Remove alternate languages from the home page languages listed in Website Name: 8. Webiste Name: [Google](https://www.google.com/)<br>
  #### Input: <br>
+<img width="349" alt="Pic14" src="https://user-images.githubusercontent.com/52568868/213911646-c3ea3119-e62b-431a-8b8c-f13ff50d4f61.png"> <br>
 
  #### Expected Output:<br>
-
+<img width="325" alt="Pic15" src="https://user-images.githubusercontent.com/52568868/213911671-e4d1e138-9369-4101-b6e0-6caed6cf7dbe.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 
