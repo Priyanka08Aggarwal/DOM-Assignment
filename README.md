@@ -65,11 +65,11 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  <br>
 
 ### Question7 : To Search a topic in the MDN Search bar.
-     First add a text to search in the search bar and then hit the submit search button to search the docs using DOM in Website Name: 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
+     First add a text to search in the search bar and then hit the submit search button to search the docs using DOM in Website Name: 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/) <br>
+#### Input: <br>
+ ![Pic12](https://user-images.githubusercontent.com/52568868/213911998-34b2290b-cfda-48d1-9cb8-7b58a6d77389.png)
 
  <br>
- #### Input: <br>
- ![Pic12](https://user-images.githubusercontent.com/52568868/213911607-31f9ebd7-b354-412f-b4bb-ccfde2baa1c4.png) <br>
  #### Expected Output:<br>
  ![Pic13](https://user-images.githubusercontent.com/52568868/213911622-fa70d6ce-3302-4513-943e-828cf7d321cf.png) <br>
  #### Solution:<br> 
@@ -116,7 +116,6 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  Website Name: 
  <br>
  #### Input: <br>
-
  #### Expected Output:<br>
 
  #### Solution:<br> 
