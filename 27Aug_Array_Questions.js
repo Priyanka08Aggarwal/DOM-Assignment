@@ -178,3 +178,63 @@ let radius=prompt("Enter radius of the circle");
 let areaOfCircle=3.14*radius*radius;
 let circum=2*3.14*radius;
 console.log("Area and circumference of circle are "+ areaOfCircle +","+circum);
+
+//Question17:->
+/* Create a human readable time format using the Date time object
+    - YYYY-MM-DD HH:mm
+    - DD-MM-YYYY HH:mm
+    - DD/MM/YYYY HH:mm */
+console.log("\nSolution of Question 17\n");
+console.log(new Date("2023-01-18"));
+console.log(new Date("11-03-1999"));
+console.log(new Date("03/25/2015"));
+
+//Question18:->
+//Get user input using prompt(“Enter your age:”). If user is 18 or older , give feedback:'You are old enough to drive' but if not 18 give another feedback stating to wait for the number of years he needs to turn 18.
+console.log("\nSolution of Question 18\n");
+var age=prompt("Enter your age");
+if(age<18){
+    let diff=18-age;
+    console.log(`You need to wait for ${diff} years to get eligible`);
+}
+else{
+    console.log("You are old enough to drive");
+}
+//Question19:->
+//Even numbers are divisible by 2 and the remainder is zero. How do you check, if a number is even or not using JavaScript?
+console.log("\nSolution of Question 19\n");
+let number=prompt("Enter any number");
+if(number%2==0){
+    console.log("Number is even");
+}
+else {
+    console.log("Number is odd");
+}
+
+//Question20:->
+/*Write a code which can give grades to students according to theirs scores:
+- 80-100, A
+- 70-89, B
+- 60-69, C
+- 50-59, D
+- 0-49, F*/
+console.log("\nSolution of Question 20\n");
+let score=prompt("Enter your scores");
+if(score>=80 && score<=100){
+    console.log("Grade is A");
+}
+else if(score>=70 && score<=89){
+    console.log("Grade is B");
+}
+else if(score>=60 && score<=69){
+    console.log("Grade is C");
+}
+else if(score>=50 && score<=59){
+    console.log("Grade is D");
+}
+else if(score>=00 && score<=49){
+    console.log("Grade is F");
+}
+else {
+    console.log("Wrong Input");
+}
