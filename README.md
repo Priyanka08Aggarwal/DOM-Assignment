@@ -49,8 +49,8 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 ![Pic9](https://user-images.githubusercontent.com/52568868/213910482-88cafb7d-e0f0-4e15-ae8a-a0def570e658.png)
 ### Solution: <br> 
  #### Code Snippet with actual output:<br> 
-<img width="674" alt="DOM4a" src="https://user-images.githubusercontent.com/52568868/213910494-8ccc75a8-8bb5-4b91-9284-fe8e0bf0eee4.png">
-<br>
+<img width="565" alt="DOM5" src="https://user-images.githubusercontent.com/52568868/213911532-b6d61e6e-e890-4f72-89c3-5e1fff9daa5d.png"> <br>
+
  
  ### Question6 : arget the search box and on hover change thebackground color to red in  Website Name: 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
  <br>
