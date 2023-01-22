@@ -37,8 +37,7 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 ### Question4: Change the contact number in Webiste Name: [OnePlus](https://www.oneplus.in/support)
  <br>
 #### Input: <br>
-<img width="218" alt="Pic6" src="https://user-images.githubusercontent.com/52568868/213909989-104f5880-829b-4b84-a4d3-da437791b292.png">
-<br>
+<img width="218" alt="Pic6" src="https://user-images.githubusercontent.com/52568868/213909989-104f5880-829b-4b84-a4d3-da437791b292.png"><br>
 #### Expected Output:<br>
 <img width="210" alt="Pic7" src="https://user-images.githubusercontent.com/52568868/213909994-001a136b-beaf-4a14-8ead-3a2535d48f13.png"> <br>
 #### Solution:<br>
@@ -46,18 +45,18 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 <img width="502" alt="DOM4" src="https://user-images.githubusercontent.com/52568868/213910016-8714ea50-aad0-45fc-9685-d3dc00bc5468.png">
  <br>
  
-### Question5 : 
-Website Name: 
-<br>
- #### Input: <br>
-
-<br>
- #### Expected Output:<br>
-
- #### Solution: <br> 
- #### Code Snippet with actual output:<br> 
-
+### Question5 : Target the main div of card and change the Button text to Check out in Website Name:5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
  <br>
+#### Input: <br>
+![Pic8](https://user-images.githubusercontent.com/52568868/213910470-81180cc3-251b-4d2a-a769-a48f14326d71.png)
+<br>
+
+ #### Expected Output:<br>
+#![Pic9](https://user-images.githubusercontent.com/52568868/213910482-88cafb7d-e0f0-4e15-ae8a-a0def570e658.png)
+### Solution: <br> 
+ #### Code Snippet with actual output:<br> 
+<img width="674" alt="DOM4a" src="https://user-images.githubusercontent.com/52568868/213910494-8ccc75a8-8bb5-4b91-9284-fe8e0bf0eee4.png">
+<br>
  
  ### Question : 
  Website Name: 
