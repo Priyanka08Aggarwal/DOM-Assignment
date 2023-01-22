@@ -35,15 +35,15 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 <img width="836" alt="DOM3" src="https://user-images.githubusercontent.com/52568868/213909673-cf18fc48-9ca2-460b-b94e-a15e28774578.png">
 <br>
 
-###Question4 : Change the contact number in Webiste Name: [OnePlus](https://www.oneplus.in/support)
+ ### Question4 : Change the contact number in Webiste Name: [OnePlus](https://www.oneplus.in/support)
  <br>
- ####Input: <br>
+  #### Input: <br>
 <img width="218" alt="Pic6" src="https://user-images.githubusercontent.com/52568868/213909989-104f5880-829b-4b84-a4d3-da437791b292.png">
 <br>
- ####Expected Output:<br>
-<img width="210" alt="Pic7" src="https://user-images.githubusercontent.com/52568868/213909994-001a136b-beaf-4a14-8ead-3a2535d48f13.png">
-####Solution:<br> 
-####Code Snippet with actual output:<br> 
+  #### Expected Output:<br>
+<img width="210" alt="Pic7" src="https://user-images.githubusercontent.com/52568868/213909994-001a136b-beaf-4a14-8ead-3a2535d48f13.png"> <br>
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
 <img width="502" alt="DOM4" src="https://user-images.githubusercontent.com/52568868/213910016-8714ea50-aad0-45fc-9685-d3dc00bc5468.png">
  <br>
  
@@ -53,7 +53,7 @@ Website Name:
  #### Input: <br>
 
 <br>
- ####  Expected Output: <br>
+ #### Expected Output: <br>
 
  #### Solution: <br> 
  #### Code Snippet with actual output:<br> 
@@ -66,7 +66,7 @@ Website Name:
  #### Input: <br>
 
 <br>
- ####  Expected Output:<br>
+ #### Expected Output:<br>
 
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
