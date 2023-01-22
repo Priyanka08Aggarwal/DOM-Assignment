@@ -7,4 +7,4 @@ Expected Output:
 <img width="187" alt="Pic2" src="https://user-images.githubusercontent.com/52568868/213908607-dca2f1a9-1a82-4b96-b401-b589ee6663a3.png">
 Solution:
 Code Snippet with actual output:
-<img width="1440" alt="DOM1" src="https://user-images.githubusercontent.com/52568868/213908669-69cf0336-9fee-4c55-8bd3-d4feb869de6f.png">
+<img width="543" alt="DOM1" src="https://user-images.githubusercontent.com/52568868/213909009-9287fc49-b492-4688-b78a-9fd848373b29.png">
