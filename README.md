@@ -52,8 +52,7 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 <img width="565" alt="DOM5" src="https://user-images.githubusercontent.com/52568868/213911532-b6d61e6e-e890-4f72-89c3-5e1fff9daa5d.png"> <br>
 
  
- ### Question6 : arget the search box and on hover change thebackground color to red in  Website Name: 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
- <br>
+ ### Question6 : Target the search box and on hover change thebackground color to red in  Website Name: 6. Webiste Name: [Adidas](https://www.adidas.co.in/) <br>
  #### Input: <br>
 <img width="140" alt="Pic10" src="https://user-images.githubusercontent.com/52568868/213911319-71791354-6529-4e48-8593-400533c57edb.png"> <br>
  #### Expected Output: <br>
@@ -62,7 +61,7 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  #### Code Snippet with actual output: <br> 
 <img width="1129" alt="DOM6" src="https://user-images.githubusercontent.com/52568868/213911336-fa30d21a-8e6e-4dfc-a81f-4e98d417cec5.png"> <br>
 
- <br>
+
 
 ### Question7 : To Search a topic in the MDN Search bar.
      First add a text to search in the search bar and then hit the submit search button to search the docs using DOM in Website Name: 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/) <br>
@@ -110,7 +109,18 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 <img width="1002" alt="DOM10" src="https://user-images.githubusercontent.com/52568868/213911085-80a77b9a-2702-47b4-8f13-ae9946636b4e.png">
 <br>
  
- ### Question11 : 
+ ### Question11 : hange the realme logo to ineuron logo Website Name: 11. Webiste Name: [realme](https://www.realme.com/in/) <br>
+ #### Input: <br>
+ ![Pic20](https://user-images.githubusercontent.com/52568868/213913370-cd2d4a8b-bffb-40cf-b7c9-815df7b6dbad.png) <br>
+ #### Expected Output:<br>
+![Pic21](https://user-images.githubusercontent.com/52568868/213913378-fcb8c3dc-00d0-4e01-8f7d-e5b3522225ff.png) <br>
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+ <img width="570" alt="DOM11" src="https://user-images.githubusercontent.com/52568868/213913409-ec4dc6f4-30a3-4af3-891b-eac0d518b905.png"> <br>
+ <br>
+ 
+ 
+ ### Question12 : 
  Website Name: 
  <br>
  #### Input: <br>
@@ -118,5 +128,86 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
-
+<img width="449" alt="DOM12" src="https://user-images.githubusercontent.com/52568868/213913437-082c7ab0-f19e-407f-bfda-b130ad06c518.png"> <br>
+ 
+ 
+ ### Question13 : 
+ Website Name: 
  <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="1025" alt="DOM13" src="https://user-images.githubusercontent.com/52568868/213913506-5421d312-ebae-4129-a5b1-6eb14a746f5e.png"> <br>
+ 
+ ## Question14 : 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="936" alt="DOM14" src="https://user-images.githubusercontent.com/52568868/213913524-c007d23a-6576-44dd-8cdd-5aedb3966a4c.png"> <br>
+ 
+  ## Question15: 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="447" alt="DOM15" src="https://user-images.githubusercontent.com/52568868/213913540-5123b358-9fce-4c33-9afa-8d3256bf0fa7.png"> <br>
+ 
+  ## Question16 : 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="502" alt="DOM16" src="https://user-images.githubusercontent.com/52568868/213913574-fb72b93f-4a4c-4102-b376-dc2fbc29710d.png"> <br>
+ 
+  ## Question17 : 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="908" alt="DOM17" src="https://user-images.githubusercontent.com/52568868/213913584-1daaafbe-b102-48c5-871d-6185f3ef3c29.png"> <br>
+
+
+ ## Question18 : 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="540" alt="DOM18" src="https://user-images.githubusercontent.com/52568868/213913598-9cea2b85-292c-4838-8882-ca7e0a73611a.png"> <br>
+ 
+  ## Question19 : 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="394" alt="DOM19" src="https://user-images.githubusercontent.com/52568868/213913607-3550f172-c76b-4131-8ded-2848dc341411.png"> <br>
+ 
+  ## Question20 : 
+ Website Name: 
+ <br>
+ #### Input: <br>
+ #### Expected Output:<br>
+
+ #### Solution:<br> 
+ #### Code Snippet with actual output:<br> 
+<img width="596" alt="DOM20" src="https://user-images.githubusercontent.com/52568868/213913618-a470fc32-7e4b-408a-af4d-0ee59d8d5840.png"> <br>
