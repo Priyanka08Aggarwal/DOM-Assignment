@@ -193,14 +193,13 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  #### Code Snippet with actual output:<br> 
 <img width="540" alt="DOM18" src="https://user-images.githubusercontent.com/52568868/213913598-9cea2b85-292c-4838-8882-ca7e0a73611a.png"> <br>
  
-  ## Question19 : extract the canon logo  Website Name: 19. Webiste Name: [Canon](https://in.canon/)
- <br>
+  ## Question19 : extract the canon logo  Website Name: 19. Webiste Name: [Canon](https://in.canon/) <br>
  #### Input: <br>
  <img width="205" alt="Pic36" src="https://user-images.githubusercontent.com/52568868/213913874-c91d0d56-36bf-4d4a-9e74-88f8cf300f1b.png"> <br>
- #### Expected Output:<br>
+ #### Expected Output: <br>
 <img width="360" alt="Pic37" src="https://user-images.githubusercontent.com/52568868/213913862-de767583-88d9-43ac-aeaf-5cd0eb4bdcee.png"> <br>
  #### Solution:<br> 
- #### Code Snippet with actual output:<br> 
+ #### Code Snippet with actual output: <br> 
 <img width="394" alt="DOM19" src="https://user-images.githubusercontent.com/52568868/213913607-3550f172-c76b-4131-8ded-2848dc341411.png"> <br>
  
   ## Question20 : Change the description colour black to orange
