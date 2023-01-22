@@ -34,3 +34,42 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 #### Code Snippet with actual output:<br> 
 <img width="836" alt="DOM3" src="https://user-images.githubusercontent.com/52568868/213909673-cf18fc48-9ca2-460b-b94e-a15e28774578.png">
 <br>
+
+### Question4 : 
+ Website Name: 
+ <br>
+#### Input: <br>
+
+<br>
+#### Expected Output:<br>
+
+#### Solution:<br> 
+#### Code Snippet with actual output:<br> 
+
+ <br>
+ 
+### Question5 : 
+Website Name: 
+<br>
+#### Input: <br>
+
+<br>
+#### Expected Output:<br>
+
+#### Solution:<br> 
+#### Code Snippet with actual output:<br> 
+
+ <br>
+ 
+ ### Question : 
+ Website Name: 
+ <br>
+#### Input: <br>
+
+<br>
+#### Expected Output:<br>
+
+#### Solution:<br> 
+#### Code Snippet with actual output:<br> 
+
+ <br>
