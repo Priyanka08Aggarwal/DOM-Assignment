@@ -71,7 +71,9 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 
  <br>
  #### Expected Output:<br>
- ![Pic13](https://user-images.githubusercontent.com/52568868/213911622-fa70d6ce-3302-4513-943e-828cf7d321cf.png) <br>
+ ![Pic13](https://user-images.githubusercontent.com/52568868/213912085-6b630dd1-944b-492a-8b60-40651473b99d.png)
+ 
+ <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
 <img width="1271" alt="DOM7" src="https://user-images.githubusercontent.com/52568868/213911375-efda8aa1-a946-4d2e-839f-4bb5b2bdedc9.png">
