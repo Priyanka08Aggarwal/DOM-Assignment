@@ -55,11 +55,12 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
  ### Question6 : arget the search box and on hover change thebackground color to red in  Website Name: 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
  <br>
  #### Input: <br>
-
+<img width="140" alt="Pic10" src="https://user-images.githubusercontent.com/52568868/213911319-71791354-6529-4e48-8593-400533c57edb.png"> <br>
  #### Expected Output:<br>
-
+<img width="202" alt="Pic11" src="https://user-images.githubusercontent.com/52568868/213911323-de31a9f2-cbfc-4722-9001-a77d306a3f88.png"> <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
+<img width="1129" alt="DOM6" src="https://user-images.githubusercontent.com/52568868/213911336-fa30d21a-8e6e-4dfc-a81f-4e98d417cec5.png">
 
  <br>
 
@@ -68,16 +69,16 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 
  <br>
  #### Input: <br>
-
+![Pic12](https://user-images.githubusercontent.com/52568868/213911347-7984077d-0d71-4ca7-9289-74969453499e.png) <br>
  #### Expected Output:<br>
-
+![Pic13](https://user-images.githubusercontent.com/52568868/213911368-ca96930d-d259-45ed-b54e-b5de1ff1d24e.png) <br>
  #### Solution:<br> 
  #### Code Snippet with actual output:<br> 
+<img width="1271" alt="DOM7" src="https://user-images.githubusercontent.com/52568868/213911375-efda8aa1-a946-4d2e-839f-4bb5b2bdedc9.png">
 
  <br>
  
- ### Question8 : Remove alternate languages from the home page languages listed in Website Name: 8. Webiste Name: [Google](https://www.google.com/)
- <br>
+ ### Question8 : Remove alternate languages from the home page languages listed in Website Name: 8. Webiste Name: [Google](https://www.google.com/)<br>
  #### Input: <br>
 
  #### Expected Output:<br>
@@ -87,9 +88,7 @@ Get Element By Id, Create Element, Create Text Node, Append Child in  Webiste Na
 
  <br>
  
- ### Question9 : Change the font family of the text to monospace and text color to the logo’s background color in Website Name: 9. Webiste Name: [Code Wars](https://www.codewars.com/)
-
- <br>
+ ### Question9 : Change the font family of the text to monospace and text color to the logo’s background color in Website Name: 9. Webiste Name: [Code Wars](https://www.codewars.com/) <br>
  #### Input: <br>
 <img width="418" alt="Pic16" src="https://user-images.githubusercontent.com/52568868/213911059-c2faf68f-448c-4c3b-a5ff-8dd7b360ce88.png">
 
